@@ -48,6 +48,13 @@
       "priority": 1,
       "description": "Verdura",
       "resolved": true
+    },
+    {
+      "id": "c8a0",
+      "title": "Prueba final",
+      "priority": "2",
+      "description": "Enviar tarea",
+      "resolved": true
     }
   ]
 }

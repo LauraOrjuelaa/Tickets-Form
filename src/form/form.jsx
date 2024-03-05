@@ -126,10 +126,6 @@ function Form() {
                 </div>
                 <button type="submit">Enviar</button>
             </form>
-
-            <div>
-                Current Tickets
-            </div>
         </div>
     );
 }
