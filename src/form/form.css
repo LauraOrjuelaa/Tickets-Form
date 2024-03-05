@@ -1,0 +1,48 @@
+.form-container {
+    display: flex;
+    justify-content: center; 
+  }
+  
+  form {
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    padding: 20px;
+    width: 350px; /* Ancho del formulario */
+  }
+  
+  .form-group {
+    margin-bottom: 20px; /* Espacio entre grupos de elementos */
+  }
+  
+  label {
+    display: block;
+  }
+  
+  input[type="text"], textarea, select{
+    width: 100%; /* Ajustar el ancho al contenedor */
+    height: 30%;
+    padding: 5px;
+    margin-top: 5px; /* Espacio entre input y label */
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+
+  
+  button {
+    margin-top: 10px; /* Espacio entre el último campo y el botón */
+    display: block;
+    margin: 0 auto; /* Centrar horizontalmente */
+    width: 100%;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px ;
+    padding: 10px;
+  }
+
+  .checkbox{
+    padding: 10px;
+    margin-bottom: 20px;
+  }
+  
